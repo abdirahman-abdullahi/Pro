@@ -1,0 +1,11 @@
+body{
+    background-image: url("th.jpeg") ;width: 1500;height: 1000;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: black;
+}

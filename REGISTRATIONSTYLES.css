@@ -1,0 +1,15 @@
+h2{
+    color: chartreuse;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-color: cornflowerblue;
+}
+label{
+    font-size: 32px;
+    color: chocolate;
+}
+form{
+    background-image: url("th.jpeg");
+}
